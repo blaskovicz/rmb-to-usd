@@ -4,6 +4,6 @@ provider:
 
 functions:
   rmb-to-usd:
-    lang: python
+    lang: python3
     handler: ./rmb-to-usd
     image: 127.0.0.1:5000/rmb-to-usd

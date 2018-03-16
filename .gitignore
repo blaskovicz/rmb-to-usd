@@ -2,3 +2,4 @@ template
 build
 /build/
 /template/
+*.swp
